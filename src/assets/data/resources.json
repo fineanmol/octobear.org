@@ -35,7 +35,7 @@
     {
         "title": "Build forms in your project",
         "description": "Build your forms easily with formspree. You can just set your form’s action to their endpoint and write no server code, or deploy your forms with CI/CD",
-        "url": " https://formspree.io/",
+        "url": "https://formspree.io",
         "tags": ["forms", "API"]
     },
     {
@@ -48,10 +48,7 @@
         "title": "Prepros",
         "description": "Compiles your files, transpiles your JavaScript, reloads your browsers and makes it really easy to develop & test your websites so you can focus on making them perfect.",
         "url": "https://prepros.io/",
-        "tags": [
-            "compiler",
-            "preprocessing"
-        ]
+        "tags": ["compiler", "preprocessing"]
     },
     {
         "title": "Chrome DevTools",
@@ -133,24 +130,30 @@
         "tags": ["analytics", "visitors", "metrics", "tracker"]
     },
     {
-      "title": "Heroicons",
-      "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
-      "url": "https://heroicons.com/",
-      "tags": ["icons", "SVG"],
-      "image": "https://user-images.githubusercontent.com/70046023/194186640-f920b757-7edf-4db6-8f00-7178310a493e.jpg"
+        "title": "Heroicons",
+        "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+        "url": "https://heroicons.com/",
+        "tags": ["icons", "SVG"],
+        "image": "https://user-images.githubusercontent.com/70046023/194186640-f920b757-7edf-4db6-8f00-7178310a493e.jpg"
     },
     {
-      "title": "Iconic",
-      "description": "Free, “do wtf you want with” pixel-perfect icons.",
-      "url": "https://iconic.app/",
-      "tags": ["icons", "SVG"]
+        "title": "Iconic",
+        "description": "Free, “do wtf you want with” pixel-perfect icons.",
+        "url": "https://iconic.app/",
+        "tags": ["icons", "SVG"]
     },
     {
-      "title": "FontAwesome",
-      "description": "Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.",
-      "url": "https://fontawesome.com/",
-      "tags": ["icons", "SVG"],
-      "image": "https://user-images.githubusercontent.com/70046023/194186932-78bc2166-c688-4da9-b9ed-2adc5477e062.png"
+        "title": "DevDocs",
+        "description": "Free, API documentation of programming language in details.",
+        "url": "https://devdocs.io/",
+        "tags": ["web", "documentation"]
+    },
+    {
+        "title": "FontAwesome",
+        "description": "Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.",
+        "url": "https://fontawesome.com/",
+        "tags": ["icons", "SVG"],
+        "image": "https://user-images.githubusercontent.com/70046023/194186932-78bc2166-c688-4da9-b9ed-2adc5477e062.png"
     },
     {
       "title": "Google Fonts Icons",
@@ -158,5 +161,47 @@
       "url": "https://fonts.google.com/icons?selected=Material+Icons",
       "tags": ["icons", "SVG"],
       "image": "https://user-images.githubusercontent.com/70046023/194187254-cf29ddcb-afb6-44a6-a1d3-3c4152b26893.png"
+    },
+    {
+      "title": "Boxicons",
+      "description": "High Quality Simple Open Source icons carefully crafted for designers & developers",
+      "url": "https://boxicons.com/",
+      "tags": ["icons", "SVG"],
+      "image": "https://user-images.githubusercontent.com/37544904/194783902-46768fee-73e6-41cb-b8c0-a64d22ac4ff0.png"
+    },
+     {
+      "title": "GitHub Skills",
+      "description": "Learn how to use GitHub with interactive courses designed for beginners and experts.",
+      "url": "https://skills.github.com/",
+      "tags": ["git", "github"],
+      "image": "https://user-images.githubusercontent.com/1221423/156894097-ff2d6566-7b6a-4488-950e-f4ebe990965a.svg"
+    },
+    {
+        "title": "Pro Git",
+        "image": "https://git-scm.com/images/progit2.png",
+        "description": "The guide to Git and its usage.",
+        "url": "https://git-scm.com/book/en/v2",
+        "tags": ["git", "books", "documentation", "developer"]
+    },
+    {
+        "title": "Eloquent JavaScript",
+        "image": "https://user-images.githubusercontent.com/68626833/198849739-bd1b61bc-c813-432d-9622-b8b759c31185.png",
+        "description": "This is a book about JavaScript, programming, and the wonders of the digital.",
+        "url": "https://eloquentjavascript.net/",
+        "tags": ["JavaScript", "books", "developer"]
+    },
+    {
+        "title": "GoHugo",
+        "image": "https://user-images.githubusercontent.com/68626833/198849798-9e1b8173-e36d-4e66-b49c-ef2b47363b24.png",
+        "description": "GoHugo is a tool to create static websites (js, html and css). It helps you to build simple websites, the most common uses are: blogs, landing pages, documentation, etc.",
+        "url": "https://gohugo.io/",
+        "tags": ["markdown", "tools", "blog"]
+    },
+    {
+        "title": "How to Contribute to an Open Source Project on GitHub",
+        "image": "https://user-images.githubusercontent.com/68626833/198849864-46c5cdf5-8f08-47e7-858e-19abfffb2599.png",
+        "description": "A course to get started with contributing open source",
+        "url": "https://egghead.io/lessons/javascript-introduction-to-github",
+        "tags": ["git", "github", "course", "developer", "beginner"]
     }
 ]
